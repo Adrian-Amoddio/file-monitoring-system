@@ -1,0 +1,83 @@
+2025-06-25 12:40:39,125 - INFO - New file detected: E:\Github Portfolio\file-monitoring-system\Incoming\file_monitor.log
+2025-06-25 12:40:39,126 - WARNING - Unknown file type: E:\Github Portfolio\file-monitoring-system\Incoming\file_monitor.log
+2025-06-25 12:40:56,088 - INFO - New file detected: E:\Github Portfolio\file-monitoring-system\Incoming\Guarantor.pdf
+2025-06-25 12:40:56,089 - INFO - Moved E:\Github Portfolio\file-monitoring-system\Incoming\Guarantor.pdf to E:\Github Portfolio\file-monitoring-system\Sorted\PDFs\Guarantor.pdf
+2025-08-05 16:13:32,107 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-05 16:13:32,107 - INFO - Loaded config keys: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-05 16:14:41,725 - INFO - New file detected: H:/file-sorter-demo\Incoming\test.txt
+2025-08-05 16:14:41,727 - INFO - Moved H:/file-sorter-demo\Incoming\test.txt to H:/file-sorter-demo\Sorted\Text_Files\test.txt
+2025-08-05 16:14:41,751 - INFO - Archived H:/file-sorter-demo\Sorted\Text_Files\test.txt to H:/file-sorter-demo\Archive\2025-08-05
+2025-08-05 16:45:23,072 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-05 16:45:23,073 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-05 16:46:12,690 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Landscape.jpg
+2025-08-05 16:46:12,693 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Landscape.jpg to H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg
+2025-08-05 16:46:12,917 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 16:46:26,560 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Notes.txt
+2025-08-05 16:46:26,563 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Notes.txt to H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt
+2025-08-05 16:46:26,565 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 16:46:26,568 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx
+2025-08-05 16:46:26,570 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx to H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx
+2025-08-05 16:46:26,577 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 16:46:42,869 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Manual.pdf
+2025-08-05 16:46:42,872 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Manual.pdf to H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf
+2025-08-05 16:46:42,904 - INFO - Archived H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 17:30:49,523 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-05 17:30:49,524 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-05 17:31:29,387 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Landscape.jpg
+2025-08-05 17:31:29,390 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Landscape.jpg to H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg
+2025-08-05 17:31:29,614 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 17:31:45,128 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Manual.pdf
+2025-08-05 17:31:45,131 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Manual.pdf to H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf
+2025-08-05 17:31:45,173 - INFO - Archived H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 17:31:45,174 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Notes.txt
+2025-08-05 17:31:45,176 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Notes.txt to H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt
+2025-08-05 17:31:45,179 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-05 17:31:45,179 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx
+2025-08-05 17:31:45,182 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx to H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx
+2025-08-05 17:31:45,188 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx to H:/Project/file-sorter-demo\Archive\2025-08-05
+2025-08-06 10:44:05,973 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-06 10:44:05,973 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-06 10:44:25,895 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Landscape.jpg
+2025-08-06 10:44:25,898 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Landscape.jpg to H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg
+2025-08-06 10:44:26,148 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:44:26,149 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Manual.pdf
+2025-08-06 10:44:26,151 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Manual.pdf to H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf
+2025-08-06 10:44:26,198 - INFO - Archived H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:44:26,198 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Notes.txt
+2025-08-06 10:44:26,201 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Notes.txt to H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt
+2025-08-06 10:44:26,204 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:44:26,204 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx
+2025-08-06 10:44:26,207 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx to H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx
+2025-08-06 10:44:26,214 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:53:19,545 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-06 10:53:19,545 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-06 10:54:31,799 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-06 10:54:31,799 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-06 10:54:47,499 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Landscape.jpg
+2025-08-06 10:54:47,502 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Landscape.jpg to H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg
+2025-08-06 10:54:47,753 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:54:47,753 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Manual.pdf
+2025-08-06 10:54:47,756 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Manual.pdf to H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf
+2025-08-06 10:54:47,792 - INFO - Archived H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:54:47,792 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Notes.txt
+2025-08-06 10:54:47,795 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Notes.txt to H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt
+2025-08-06 10:54:47,798 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:54:47,798 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx
+2025-08-06 10:54:47,801 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx to H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx
+2025-08-06 10:54:47,808 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:55:55,328 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-06 10:55:55,329 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-06 10:56:04,732 - INFO - Using config file: e:\Github Portfolio\file-monitoring-system\config.json
+2025-08-06 10:56:04,732 - INFO - Config keys loaded: ['base_dir', 'incoming_directory', 'sorted_directory', 'archive_directory', 'extensions']
+2025-08-06 10:56:18,258 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Landscape.jpg
+2025-08-06 10:56:18,261 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Landscape.jpg to H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg
+2025-08-06 10:56:18,532 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Images\Landscape.jpg to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:56:18,532 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Manual.pdf
+2025-08-06 10:56:18,535 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Manual.pdf to H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf
+2025-08-06 10:56:18,568 - INFO - Archived H:/Project/file-sorter-demo\Sorted\PDFs\Manual.pdf to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:56:18,569 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Notes.txt
+2025-08-06 10:56:18,571 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Notes.txt to H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt
+2025-08-06 10:56:18,574 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Text_Files\Notes.txt to H:/Project/file-sorter-demo\Archive\2025-08-06
+2025-08-06 10:56:18,574 - INFO - New file detected: H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx
+2025-08-06 10:56:18,577 - INFO - Moved H:/Project/file-sorter-demo\Incoming\Shopping-list.xlsx to H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx
+2025-08-06 10:56:18,585 - INFO - Archived H:/Project/file-sorter-demo\Sorted\Spreadsheets\Shopping-list.xlsx to H:/Project/file-sorter-demo\Archive\2025-08-06

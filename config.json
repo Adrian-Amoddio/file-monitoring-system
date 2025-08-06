@@ -1,0 +1,17 @@
+{
+  "base_dir": "E:\\Github Portfolio\\file-monitoring-system",
+  "incoming_directory": "Incoming",
+  "sorted_directory": "Sorted",
+  "archive_directory": "Archive",
+  "extensions": {
+    ".pdf": "PDFs",
+    ".jpg": "Images",
+    ".jpeg": "Images",
+    ".png": "Images",
+    ".xls": "Spreadsheets",
+    ".xlsx": "Spreadsheets",
+    ".csv": "Spreadsheets",
+    ".txt": "Text_Files",
+    ".md": "Text_Files"
+  }
+}
