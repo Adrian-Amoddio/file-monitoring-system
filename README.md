@@ -21,10 +21,9 @@ This is a GUI-based desktop application that monitors a folder in real-time and 
   <img src="docs/screenshot_monitoring.png" width="360"/>
 </p>
 
-## Demonstration
+### Demonstration
 
-<video src="docs/Video_Demonstration.mp4" width="800" autoplay loop muted playsinline></video>
-[Watch the demonstration video](docs/Video_Demonstration.mp4)
+[![Watch the demo](https://img.youtube.com/vi/KI6fSu_xO3k/hqdefault.jpg)](https://youtu.be/KI6fSu_xO3k)
 
 ---
 
