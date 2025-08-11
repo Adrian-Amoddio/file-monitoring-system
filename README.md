@@ -6,22 +6,22 @@ This is a GUI-based desktop application that monitors a folder in real-time and 
 
 ## Features
 
-- **Automatic File Sorting** – Organizes new files by their extension (e.g., PDFs to Word documents, MP3s to Audio).
+- **Automatic File Sorting** – Organizes new files by their extension (e.g., PDFs -> Documents, MP3s -> Audio).
 - **Live Monitoring** – Watches a selected directory in real-time.
 - **Archiving** – Stores a dated copy of each file in an archive folder for backup.
-- **Overwrite File Handling** – Prevents overwrites by appending a counter to duplicate files.
+- **Overwrite File Handling** – Prevents overwrites by appending a number to the end of duplicate files.
 - **Simple GUI** – Choose a folder and click "Start Monitoring".
 
 ---
 
-## GUI Interface
+## GUI
 
 <p float="left">
   <img src="docs/screenshot_initial.png" width="360"/>
   <img src="docs/screenshot_monitoring.png" width="360"/>
 </p>
 
-### Demonstration
+### Demo
 
 [![Watch the demo](https://img.youtube.com/vi/KI6fSu_xO3k/hqdefault.jpg)](https://youtu.be/KI6fSu_xO3k)
 
@@ -93,7 +93,7 @@ python file_sorter_app.py
 
 ## Logging
 
-All activity (new file detection, moves, errors, etc.) is recorded in `file_monitor.log` for easy troubleshooting.
+All file creation and movement activity is recorded in `file_monitor.log`
 
 ---
 
